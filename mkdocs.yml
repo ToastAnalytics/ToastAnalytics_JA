@@ -1,10 +1,9 @@
 site_name: ToastAnalytics Guide
 theme: readthedocs
 
-repo_url:https://github.com/ToastAnalytics/ToastAnalytics_JA/
-
 docs_dir: docs
 site_dir: docs
+
 pages:
 - ['index.md', 'Introduction', 'Welcome to Toast Analytics']
 
